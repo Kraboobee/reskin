@@ -11,21 +11,19 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaigns
+    title: More than just a pretty website
     description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
+      Re Spec is about more than just web design. You have a brand, and we help you express its identity online.
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
     button:
-      text: Try This Free
+      text: Contact Us
       link: /signup/
   - _bookshop_name: global/counter
-    title: Scale your
-    title_suffix: Business
+    title: Refresh your
+    title_suffix: Brand
     description: >-
-      We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
+      We use cutting edge development frameworks and well-established design techniques to give your site a world-class finish.
     alternate_style: false
     numbers:
       - prefix: $
@@ -49,12 +47,13 @@ content_blocks:
     image_alt: Thumbnail for video
     video_url: https://vimeo.com/45830194
   - _bookshop_name: global/header
-    title: "Sendit "
-    title_suffix: Features
+    title: "Re Spec "
+    title_suffix: Benefits
     remove_top_padding: true
     description: >-
-      Our platform offers the most advanced features including automated email
-      content creation, dynamic personalization, and customer segmentation.
+      Your aesthetic and expertise deserve an online experience to match. 
+      Our websites are blazing fast website with beautiful, professional design.
+      We work with you to fine-tune your typography and colour palette to perfectly communicate your brand. 
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
