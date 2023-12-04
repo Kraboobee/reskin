@@ -11,27 +11,27 @@ seo:
 content_blocks:
   - _bookshop_name: pricing/hero
     title: A plan for everyone
-    description: Sendit is easy to get started and we have a pricing plan for businesses of all sizes.
+    description: Whether you need a fresh look for your small business or a beautiful platform to display your artwork, we have a solution for you.
 
   - _bookshop_name: pricing/table
     pricing_tier:
-      - tier: Free
+      - tier: Entry
         highlight_tier: false
-        description: Everything you need to get started.
-        currency_symbol: $
-        price: 0
+        description: Modern Design, Modern Performance.
+        currency_symbol: R
+        price: 1999
         has_discount: false
         discount_price: 0
         features:
-          - item: 1 Email Campaign
+          - item: Single Page App
             active_feature: true
-          - item: 1 Year Premium Support
+          - item: Free consultation
             active_feature: true
-          - item: Regular Update for 1 Year
+          - item: Updated Typography
             active_feature: true
-          - item: 90+ Widgets & Extensions
+          - item: Updated Colour Schemes
             active_feature: true
-          - item: 23+ Templates
+          - item: 90+ Lighthouse Performance
             active_feature: true
           - item: Over 800 Section Blocks
             active_feature: false
@@ -43,14 +43,14 @@ content_blocks:
             active_feature: false
         button:
           link: /signup
-          text: Try This Free
+          text: Contact Us
       - tier: Pro
         highlight_tier: true
-        description: More collaborative power and unlimited boards for fast-growing.
-        currency_symbol: $
-        price: 199
+        description: Control Your Content.
+        currency_symbol: R
+        price: 7999
         has_discount: true
-        discount_price: 125
+        discount_price: 4999
         features:
           - item: 1 Email Campaign
             active_feature: true
@@ -72,13 +72,13 @@ content_blocks:
             active_feature: false
         button:
           link: /signup
-          text: Try This Free
-      - tier: Business
+          text: Contact Us
+      - tier: Custom
         highlight_tier: false
-        description: For starters Includes unlimited members
-        currency_symbol: $
-        price: 499
-        has_discount: true
+        description: Advanced Functionality
+        currency_symbol: R
+        price: 9999
+        has_discount: false
         discount_price: 350
         features:
           - item: 1 Email Campaign
@@ -101,7 +101,7 @@ content_blocks:
             active_feature: true
         button:
           link: /signup
-          text: Try This Free
+          text: Contact Us
 
   - _bookshop_name: global/faq
     title: Have
