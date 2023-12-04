@@ -23,9 +23,9 @@ content_blocks:
         has_discount: false
         discount_price: 0
         features:
-          - item: Single Page App
+          - item: Static Website
             active_feature: true
-          - item: Free consultation
+          - item: Free Consultation
             active_feature: true
           - item: Updated Typography
             active_feature: true
@@ -33,13 +33,9 @@ content_blocks:
             active_feature: true
           - item: 90+ Lighthouse Performance
             active_feature: true
-          - item: Over 800 Section Blocks
+          - item: 3 Revisions
             active_feature: false
-          - item: Support
-            active_feature: false
-          - item: 3 filters
-            active_feature: false
-          - item: Unlimited activity history
+          - item: Monthly Feedback Consultation
             active_feature: false
         button:
           link: /signup
@@ -52,52 +48,48 @@ content_blocks:
         has_discount: true
         discount_price: 4999
         features:
-          - item: 1 Email Campaign
+          - item: Multipage Site with CMS
             active_feature: true
-          - item: 1 Year Premium Support
+          - item: Free Consultation
             active_feature: true
-          - item: Regular Update for 1 Year
+          - item: Updated Typography
             active_feature: true
-          - item: 90+ Widgets & Extensions
+          - item: Updated Colour Scheme
             active_feature: true
-          - item: 23+ Templates
+          - item: 90+ Lighthouse Performance
             active_feature: true
-          - item: Over 800 Section Blocks
-            active_feature: true
-          - item: Support
+          - item: 5 Revisions
             active_feature: false
-          - item: 3 filters
+          - item: 1 Monthly Feedback Consultation
             active_feature: false
-          - item: Unlimited activity history
-            active_feature: false
+          - item: Annual Update
+            active_feature: true
         button:
           link: /signup
           text: Contact Us
       - tier: Custom
         highlight_tier: false
         description: Advanced Functionality
-        currency_symbol: R
-        price: 9999
+        currency_symbol: 
+        price: "POA"
         has_discount: false
         discount_price: 350
         features:
-          - item: 1 Email Campaign
+          - item: Fullstack Cross-platform App
+            active_feature: true
+          - item: Premium Hosting
+            active_feature: true
+          - item: Continuous Integration
             active_feature: true
           - item: 1 Year Premium Support
             active_feature: true
-          - item: Regular Update for 1 Year
+          - item: Premium Typography
             active_feature: true
-          - item: 90+ Widgets & Extensions
+          - item: Logo Design
             active_feature: true
-          - item: 23+ Templates
+          - item: Photography
             active_feature: true
-          - item: Over 800 Section Blocks
-            active_feature: true
-          - item: Support
-            active_feature: true
-          - item: 3 filters
-            active_feature: true
-          - item: Unlimited activity history
+          - item: SEO
             active_feature: true
         button:
           link: /signup
@@ -106,16 +98,14 @@ content_blocks:
   - _bookshop_name: global/faq
     title: Have
     title_suffix: Questions?
-    description: We believe that a good email marketing strategy is the key to growth. So we’re helping you grow your business with tools and resources that make email marketing easy.
+    description: We see the potential in local businesses, and we want to contribute to their growth. We hope to clearly communicate our value to help you make the best decision for your brand.
     FAQ:
-      - title: Is there a maximum numbers of emails I can send each month?
-        description: No, the prices include unlimited emails. Send to your heart's content.
-      - title: Where can I find out more information?
-        description: Right here on this website, or contact our support team.
-      - title: Do you have pricing for non-profits?
-        description: Yes, contact our support team and we'll get you set up on our non-profit plan.
+      - title: What is a "Static Website"?
+        description: A static website is a simple, lightweight site. Although functionality is more limited, you get a well designed, high-performance site that perfectly communicates your brand. 
+      - title: By "CMS", do you just mean Wordpress?
+        description: Wordpress is outdated and slow. We use modern headless CMS platforms with cutting-edge UI frameworks to maximise performance and control.
+      - title: Why are your prices so high?
+        description: Very few developers have our design skills, and very few designers have our development skills.
       - title: What forms of payment do you accept?
-        description: We accept credit cards, checks, and cash.
-      - title: In which currencies can I make payments?
-        description: All payments are in **USD**.
+        description: We currently accept EFT only.
 ---
